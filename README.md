@@ -18,4 +18,4 @@
 
 ## Gif
 
-<img src="../Restaruant Website/public/screen.gif" />
+<img src="/public/screen.gif" />
